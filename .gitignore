@@ -1,0 +1,29 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+chatbot_env/
+env/
+venv/
+*.env
+
+# Flask specific
+instance/
+.webassets-cache
+
+# IDE files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# Log files
+*.log
+
+# Other files
+*.sqlite3
+*.db
+*.pid
+*.seed
+*.dump
